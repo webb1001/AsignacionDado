@@ -1,0 +1,11 @@
+C:\Users\chris\Documents\GitHub\AsignacionDado\Dado\Dado\bin\Debug\netcoreapp3.1\Dado.exe
+C:\Users\chris\Documents\GitHub\AsignacionDado\Dado\Dado\bin\Debug\netcoreapp3.1\Dado.deps.json
+C:\Users\chris\Documents\GitHub\AsignacionDado\Dado\Dado\bin\Debug\netcoreapp3.1\Dado.runtimeconfig.json
+C:\Users\chris\Documents\GitHub\AsignacionDado\Dado\Dado\bin\Debug\netcoreapp3.1\Dado.runtimeconfig.dev.json
+C:\Users\chris\Documents\GitHub\AsignacionDado\Dado\Dado\bin\Debug\netcoreapp3.1\Dado.dll
+C:\Users\chris\Documents\GitHub\AsignacionDado\Dado\Dado\bin\Debug\netcoreapp3.1\Dado.pdb
+C:\Users\chris\Documents\GitHub\AsignacionDado\Dado\Dado\obj\Debug\netcoreapp3.1\Dado.csprojAssemblyReference.cache
+C:\Users\chris\Documents\GitHub\AsignacionDado\Dado\Dado\obj\Debug\netcoreapp3.1\Dado.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\GitHub\AsignacionDado\Dado\Dado\obj\Debug\netcoreapp3.1\Dado.AssemblyInfo.cs
+C:\Users\chris\Documents\GitHub\AsignacionDado\Dado\Dado\obj\Debug\netcoreapp3.1\Dado.dll
+C:\Users\chris\Documents\GitHub\AsignacionDado\Dado\Dado\obj\Debug\netcoreapp3.1\Dado.pdb
